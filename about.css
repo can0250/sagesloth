@@ -1,0 +1,377 @@
+body {
+    background-color: #0B1210;
+}
+
+a {
+    color: white;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 30px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.lijstfirst {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    padding: 10px;
+}
+
+.about {
+    color: #A8D672;
+}
+
+.playerlogin {
+    background-color: #192B24;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.parent1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.eerstetekst {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.origin {
+    color: #70D6B2;
+    font-size: 17px;
+}
+
+.gaming {
+    color: white;
+    font-size: 56px;
+}
+
+.langtekst {
+    color: #9EAA9E;
+    font-size: 22px;
+}
+
+.calm {
+    background-color: #A8D672;
+    color: #142018;
+    border-radius: 15px;
+    width: 175px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.mascot {
+    border-radius: 25px;
+    height: 450px;
+    width: 550px;
+}
+
+.parent2 {
+    background-color: #13201B;
+    margin-left: -140px;
+    margin-right: -140px;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.how {
+    color: #FFB893;
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+
+.three {
+    color: white;
+    font-size: 40px;
+}
+
+.blokjes {
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+    padding-top: 45px;
+}
+
+.groen {
+    border: 1px solid #2B4037;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.nul1 {
+    background-color: #A8D672;
+    border-radius: 10px;
+    color: #142018;
+    font-size: 35px;
+    padding: 10px;
+    width: 35px;
+}
+
+.tiny {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+.tekstgroen {
+    color: #9EAA9E;
+    font-size: 24px;
+}
+
+.wit {
+    border: 1px solid #2B4037;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.nul2 {
+    background-color: #C6B5FF;
+    border-radius: 10px;
+    color: #142018;
+    font-size: 35px;
+    padding: 10px;
+    width: 35px;
+}
+
+.perfect {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+.tekstwit {
+    color: #9EAA9E;
+    font-size: 24px;
+}
+
+.rood {
+    border: 1px solid #2B4037;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.nul3 {
+    background-color: #FFB893;
+    border-radius: 10px;
+    color: #142018;
+    font-size: 35px;
+    padding: 10px;
+    width: 35px;
+}
+
+.keep {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+.tekstrood {
+    color: #9EAA9E;
+    font-size: 24px;
+}
+
+.tekstfotos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 75px;
+}
+
+.meet {
+    color: #70D6B2;
+    font-size: 20px;
+}
+
+.guides {
+    color: white;
+    font-size: 45px;
+}
+
+.built {
+    color: #9EAA9E;
+    font-size: 20px;
+}
+
+.mensenfotos {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-top: 50px;
+}
+
+.groenfoto {
+    background-color: #A8D672;
+    border-radius: 20px;
+}
+
+.witfoto {
+    background-color: #C6B5FF;
+    border-radius: 20px;
+}
+
+.roodfoto {
+    background-color: #FFB893;
+    border-radius: 20px;
+}
+
+.foto {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.onderfotos {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.naam {
+    padding: 5px;
+    color: #142018;
+    font-size: 35px;
+}
+
+.ondernaam {
+    padding: 5px;
+    color: #142018;
+    font-size: 20px;
+}
+
+.laatste {
+    padding: 5px;
+    color: #142018;
+    font-size: 20px;
+    padding-bottom: 55px;
+}
+
+.parent4 {
+    padding-top: 150px;
+}
+
+.woorden {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.notes {
+    color: white;
+    font-size: 50px;
+}
+
+.see {
+    color: #9EAA9E;
+    font-size: 25px;
+}
+
+.tekstblokjes {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-top: 35px;
+}
+
+.groenblok {
+    background-color: #70D6B2;
+    border-radius: 20px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.witblok {
+    background-color: #C6B5FF;
+    border-radius: 20px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.geelblok {
+    background-color: #E8DD63;
+    border-radius: 20px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.eerste {
+    color: #142018;
+    font-size: 20px;
+}
+
+.tweede {
+    color: #142018;
+    font-size: 30px;
+}
+
+.derde {
+    color: #142018;
+    font-size: 20px;
+}
+
+.vierde {
+    color: #142018;
+    font-size: 20px;
+}
+
+.parent5 {
+    background-color: #13201B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.sagesloth {
+    color: white;
+    font-size: 50px;
+}
+
+.eind {
+    color: #9EAA9E;
+    font-size: 25px;
+}
+
+.fotoeind {
+    height: 40px;
+    padding-top: 25px;
+}
+
+.tag {
+    color: #53645C;
+    font-size: 15px;
+    padding-top: 45px;
+}

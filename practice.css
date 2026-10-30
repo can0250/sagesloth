@@ -1,0 +1,393 @@
+body {
+    background-color: #0B1210;
+}
+
+a {
+    color: white;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 30px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.lijstfirst {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    padding: 10px;
+}
+
+.practice {
+    color: #A8D672;
+}
+
+.playerlogin {
+    background-color: #192B24;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.parent2 {
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.lijstjefoto {
+    color: white;
+}
+
+.questlog {
+    color: #70D6B2;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.smallresets {
+    margin-bottom: 15px;
+    font-size: 60px;
+}
+
+.sixbeginner {
+    color: #9EAA9E;
+    font-size: 25px;
+}
+
+.foto {
+    height: 500px;
+    width: 700px;
+}
+
+.parent3 {
+    padding-top: 100px;
+    color: white;
+}
+
+.choose {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.nostreak {
+    color: #9EAA9E;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.quests {
+    color: #53645C;
+    font-size: 20px;
+}
+
+.parentlijstje {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    font-size: 15px;
+}
+
+.all {
+    color: #142018;
+    background-color: #A8D672;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.alllijst {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin-left: 15px;
+    color: #9EAA9E;
+}
+
+.test {
+    background-color: #2B4037;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.parent8 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.parent9 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.blokgroot {
+    background-color: #192B24;
+    margin-right: 20px;
+    padding: 25px;
+    border-radius: 20px;
+    width: 600px;
+}
+
+.blok {
+    display: flex;
+    justify-content: space-between;
+}
+
+.min {
+    font-size: 15px;
+    color: #9EAA9E;
+    padding-top: 10px;
+}
+
+.time1 {
+    background-color: #C6B5FF;
+    color: black;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.time2 {
+    background-color: #A8D672;
+    color: black;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.time3 {
+    background-color: #FFB893;
+    color: black;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.time4 {
+    color: black;
+    background-color: #70D6B2;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.time5 {
+    background-color: #E8DD63;
+    color: black;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.time6 {
+    background-color: #F0E8D2;
+    color: black;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.tekst {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.kleur1 {
+    background-color: #111A16;
+    color: #C6B5FF;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    width: 75px;
+}
+
+.kleur2 {
+    background-color: #111A16;
+    color: #A8D672;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    width: 75px;
+}
+
+.kleur3 {
+    background-color: #111A16;
+    color: #FFB893;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    width: 75px;
+}
+
+.kleur4 {
+    background-color: #111A16;
+    color: #70D6B2;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    width: 60px;
+}
+
+.kleur5 {
+    background-color: #111A16;
+    color: #E8DD63;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    width: 75px;
+}
+
+.kleur6 {
+    background-color: #111A16;
+    color: #F0E8D2;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    width: 75px;
+}
+
+.tekst1 {
+    color: #9EAA9E;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.pijl1 {
+    color: #C6B5FF;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.pijl2 {
+    color: #A8D672;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.pijl3 {
+    color: #FFB893;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.pijl4 {
+    color: #70D6B2;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.pijl5 {
+    color: #E8DD63;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.pijl6 {
+    color: #F0E8D2;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.parent4 {
+    margin-top: 200px;
+    background-color: #2B4037;
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.parent5 {
+    display: flex;
+    flex-direction: row;
+}
+
+.procent {
+    color: #142018;
+    background-color: #C6B5FF;
+    border-radius: 25px;
+    font-size: 50px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.bijna {
+    color: white;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+
+.klaar {
+    color: #9EAA9E;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.einde {
+    background-color: #A8D672;
+    color: #142018;
+    border-radius: 15px;
+    padding: 10px;
+    width: 350px;
+}
+
+.parent6 {
+    background-color: #13201B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.sagesloth1 {
+    color: white;
+    font-size: 50px;
+}
+
+.bro {
+    color: #9EAA9E;
+    font-size: 25px;
+}
+
+.fotoeind {
+    height: 40px;
+    padding-top: 25px;
+}
+
+.tag {
+    color: #53645C;
+    font-size: 15px;
+    padding-top: 45px;
+}

@@ -1,0 +1,378 @@
+a {
+    color: white;
+}
+
+.klein {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    font-size: 50%;
+    align-items: center;
+}
+
+.groot {
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    justify-content: space-between;
+    font-size: 50px;
+}
+
+body {
+    background-color: #0B1210;
+    color: white;
+    font-size: 30px;
+    font-family: arial;
+}
+
+.knoppen {
+    display: flex;
+    gap: 20px;
+    font-size: 60%;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    padding-top: 150px;
+    gap: 100px;
+}
+
+.savepoint {
+    font-size: 40%;
+    background-color: #192B24;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    color: #70D6B2;
+    margin-bottom: 20px;
+}
+
+.knop {
+    background-color: #A8D672;
+    padding: 12px;
+    border-radius: 10px;
+    color: black;
+}
+
+
+.knopp {
+    background-color: transparent;
+    border: 1px solid #2B4037;
+    padding: 12px;
+    border-radius: 10px;
+    color: white;
+}
+
+.imgsloth {
+    border-radius: 25px;
+    width: 550px;
+    height: 550px;
+}
+
+.home {
+    color: #A8D672;
+}
+
+.player {
+    background-color: #192B24;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.tiny {
+    color: #9EAA9E;
+}
+
+.passen {
+    font-size: 40px;
+}
+
+.parent2 {
+    margin-left: 100px;
+}
+
+.pause {
+    font-size: 60px;
+}
+
+.reset {
+    margin-left: 90px;
+    font-size: 40%;
+    color: #A8D672;
+    margin-top: 80px;
+}
+
+.baseline {
+    margin-left: 90px;
+    margin-top: 15px;
+    font-size: 125%;
+}
+
+.useful {
+    margin-left: 90px;
+    margin-top: 15px;
+    font-size: 60%;
+    color: #9EAA9E;
+    margin-bottom: 50px;
+}
+
+.respawn {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 80%;
+}
+
+.checkpoint {
+    margin-left: 30px;
+    font-size: 60%;
+    width: 300px;
+    color: #9EAA9E;
+}
+
+.quest {
+    margin-left: 30px;
+    font-size: 45%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #A8D672;
+}
+
+.parent3 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.heart {
+    margin-left: 30px;
+    background-color: #A8D672;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 45px;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+}
+
+.alles {
+    background-color: #192B24;
+    display: inline-block;
+    border-radius: 10px;
+    width: 350px;
+    padding: 1px;
+}
+
+.plus {
+    margin-left: 30px;
+    background-color: #FFB893;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 45px;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+}
+
+.questplus {
+    margin-left: 30px;
+    font-size: 45%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #FFB893;
+}
+
+.rond {
+    margin-left: 30px;
+    background-color: #C6B5FF;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 45px;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+}
+
+.questrond {
+    margin-left: 30px;
+    font-size: 45%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #C6B5FF;
+}
+
+.vakje1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.min3 {
+    font-size: 15px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+
+.vakje2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.min5 {
+    font-size: 15px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+
+.vakje3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.min7 {
+    font-size: 15px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+
+.imgidk {
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.parent4 {
+    background-color: #13201B;
+    margin-top: 100px;
+    padding-bottom: 150px;
+    display: flex;
+    flex-direction: row;
+    word-spacing: 5px;
+}
+
+.fototekst {
+    margin-left: 65px;
+    margin-top: 150px;
+}
+
+.fly {
+    color: #C6B5FF;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.water {
+    font-size: 60px;
+    margin-bottom: 25px;
+}
+
+.watertekst {
+    color: #9EAA9E;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.vinkjes {
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.parent5 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px;
+}
+
+.pln {
+    font-size: 20px;
+    color: #FFB893;
+    margin: 25px;
+}
+
+.tekst {
+    font-size: 50px;
+    margin: 25px;
+}
+
+.mina {
+    font-size: 30px;
+    color: #9EAA9E;
+    margin: 25px;
+}
+
+.parent6 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #192B24;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 35px;
+    padding: 50px;
+}
+
+.calmer {
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+
+.tiny {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.parentmail {
+    margin-top: 25px;
+    display: flex;
+    gap: 10px;
+}
+
+.mail {
+    border-radius: 20px;
+    color: #53645C;
+    font-size: 20px;
+    background-color: transparent;
+    border: 2px solid #2B4037;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 400px;
+}
+
+.party {
+    font-size: 15px;
+    background-color: #C6B5FF;
+    color: #142018;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.parent7 {
+    background-color: #13201B;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.stop {
+    display: flex;
+    flex-direction: column;
+}
+
+.bijna {
+    font-size: 15px;
+}
+
+.eind {
+    font-size: 15px;
+    padding: 15px;
+}

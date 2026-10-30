@@ -1,0 +1,230 @@
+body {
+    background-color: #0B1210;
+}
+
+a {
+    color: white;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 30px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.lijstfirst {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    padding: 10px;
+}
+
+.contact {
+    color: #A8D672;
+}
+
+.playerlogin {
+    background-color: #192B24;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.parent5 {
+    background-color: #13201B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.sagesloth {
+    color: white;
+    font-size: 50px;
+}
+
+.eind {
+    color: #9EAA9E;
+    font-size: 25px;
+}
+
+.fotoeind {
+    height: 40px;
+    padding-top: 25px;
+}
+
+.tag {
+    color: #53645C;
+    font-size: 15px;
+    padding-top: 45px;
+}
+
+.parent1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 100px;
+    padding-bottom: 75px;
+}
+
+.guides {
+    background-color: #192B24;
+    border-radius: 20px;
+    color: #70D6B2;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.stuck {
+    color: #F3F1E7;
+    font-size: 60px;
+}
+
+.stuck2 {
+    color: #F3F1E7;
+    font-size: 60px;
+    margin-top: -20px;
+}
+
+.questions {
+    color: #9EAA9E;
+    font-size: 25px;
+}
+
+.parent2 {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    padding-left: 325px;
+    padding-bottom: 75px;
+}
+
+.groen {
+    background-color: #A8D672;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.wit {
+    background-color: #C6B5FF;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.naam {
+    color: #142018;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.gg {
+    color: #142018;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.parent3 {
+    background-color: #192B24;
+    border-radius: 25px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.gap {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.open {
+    color: #FFB893;
+    font-size: 15px;
+}
+
+.send {
+    color: #F3F1E7;
+    font-size: 45px;
+}
+
+.we {
+    color: #9EAA9E;
+    font-size: 20px;
+}
+
+.your {
+    background-color: #13201B;
+    border-radius: 10px;
+    border: 2px solid #2B4037;
+    padding: 10px;
+    width: 540px;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.gamer {
+    background-color: #13201B;
+    border-radius: 10px;
+    border: 2px solid #2B4037;
+    padding: 10px;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.message {
+    background-color: #13201B;
+    border-radius: 10px;
+    border: 2px solid #2B4037;
+    padding: 10px;
+    font-size: 20px;
+    padding-bottom: 200px;
+}
+
+.reset {
+    background-color: #13201B;
+    border-radius: 10px;
+    border: 2px solid #2B4037;
+    padding: 10px;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.parent4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.buttontekst {
+    color: #9EAA9E;
+    font-size: 20px;
+}
+
+.button {
+    background-color: #A8D672;
+    border-radius: 15px;
+    color: #142018;
+    font-size: 20px;
+    padding: 10px;
+}
